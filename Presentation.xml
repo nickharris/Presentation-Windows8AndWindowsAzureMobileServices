@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Windows8AndWindowsAzureMobileServices</Id>
+  <Author>
+    <Blog>http://www.nickharris.net</Blog>
+    <Email>http://twitter.com/cloudnick</Email>
+    <Name>Nick Harris</Name>
+  </Author>
+  <Description>
+The best apps need cloud services. Join this session to see how you can leverage Visual Studio 2012 and the new functionality in Windows Azure to add structured storage, integrated authentication and even Push Notifications in literally minutes to your Windows 8 Store app.
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\BuildingConnectedWin8AppsWithWindowsAzureMobileServices.pptx</Document>
+  <Title>Building Connected Windows 8 Apps with Windows Azure Mobile Services</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+  <CustomProperties>
+     <Property Name="Filter" Value="Foundation" />
+  </CustomProperties>
+</Presentation>
