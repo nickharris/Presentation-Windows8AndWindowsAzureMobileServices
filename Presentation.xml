@@ -11,9 +11,9 @@ The best apps need cloud services. Join this session to see how you can leverage
   </Description>
   <Document RemoveSpeakerNotes="false">.\Windows8AndWindowsAzureMobileServices.pptx</Document>
   <Title>Building Connected Windows 8 Apps with Windows Azure Mobile Services</Title>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
-     <Property Name="Filter" Value="Foundation" />
+    <Property Name="Filter" Value="Foundation" />
   </CustomProperties>
 </Presentation>
