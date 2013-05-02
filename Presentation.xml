@@ -10,7 +10,7 @@
   </Description>
   <Document RemoveSpeakerNotes="false">.\Windows8AndWindowsAzureMobileServices.pptx</Document>
   <Title>Building Connected Windows 8 Apps with Windows Azure Mobile Services</Title>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation" />
